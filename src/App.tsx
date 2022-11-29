@@ -9,7 +9,7 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <p>
-                    Count <code>{count}</code> and save to reload.
+                    COUNT <code>{count}</code> and save to reload.
                 </p>
                 <button
                     onClick={() => {
